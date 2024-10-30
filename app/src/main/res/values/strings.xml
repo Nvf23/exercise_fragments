@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity_Fragments</string>
+    <string name="heading">Activity_Fragments</string>
+    <string name="fragment1_button">Fragment One</string>
+    <string name="fragment2_button">Fragment Two</string>
+    <string name="fragment2_text1">Waiting to get text…</string>
+    <string name="enter_text">Enter text to send</string>
+    <string name="send_text">Send!</string>
+</resources>
